@@ -53,12 +53,11 @@ The Food Ordering App is a robust and user-friendly mobile application developed
 
 
 # Lessons Learned:
-
-
 ## 1. User Feedback is Crucial:
-<p><b>Lesson: </b></p>
-<p><b>Application: </b></p>
-
+<p><b>1. User Feedback is Crucial: </b>Listening to user feedback helped improve the app's design and usability.</p>
+<p><b>2. Efficient API Integration: </b>Optimizing how the app talks to the server made it faster and reduced server load.</p>
+<p><b>3. Data Security: </b>Protecting user data with secure methods built trust and ensured safety.</p>
+<p><b>4. Scalable Design: </b>Planning for future growth made it easier to handle more users and data.</p>
 
 # Future Improvements:
 <p><b>1. Expanded Filtering Options: </b>Introducing more granular filters such as cuisine type, delivery time, and distance to further refine search results.</p>
